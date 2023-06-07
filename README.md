@@ -53,7 +53,7 @@ I enjoy being challenged and engaging with projects that require me to work outs
         <tr>
             <td colspan="8" align="center">
                 <span>
-                    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onurkaraoglan&count_private=true&hide_border=false&show_icons=true&include_all_commits=true&bg_color=161b22&title_color=e6edf3&text_color=bec3c8&icon_color=fb8c01&ring_color=fb8c01">
+                    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onurkaraoglan&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=161b22&title_color=e6edf3&text_color=bec3c8&icon_color=fb8c01&ring_color=fb8c01">
                 </span>
             </td>
         </tr>
